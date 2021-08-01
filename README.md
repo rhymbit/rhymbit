@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Prateek
 - 🍌 I'm an electronics engineering student working primarily with web development and anything related to web tech.
-- 🍇 I’m interested in software development, application development, web development, semiconductor electronics and boxing 🥊🙂.
+- 🍇 I’m interested in software development, application development, web development, semiconductor electronics and boxing🥊.
 - 🥝 I’m currently learning ASP.NET, Blazor, Building and Deploying web services, WASM peaks my interest🤔.
 - 🍍 I also work on frontend web dev with React, JavaScript, HTML, CSS etc.
 - 🍎 I always love to help out and collaborate on any project where I could be useful. 
