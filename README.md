@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Tahoma&color=6D9DFF&size=30&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Prateek)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Tahoma&color=6D71FF&size=30&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Prateek)](https://git.io/typing-svg)
 - 🍌 I'm an electronics engineering student working primarily with web development and anything related to web tech.
 - 🍇 I’m interested in software development, application development, web development, semiconductor electronics and boxing🥊.
 - 🥝 I’m currently learning ASP.NET, Blazor, Building and Deploying web services, WASM peaks my interest🤔.
