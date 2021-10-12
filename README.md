@@ -1,11 +1,11 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Tahoma&color=6D71FF&size=30&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Prateek)](https://git.io/typing-svg)
-- 🍌 I'm an electronics engineering student working primarily with web development and anything related to web tech.
+- 🍌 I'm an engineer graduate working primarily with web development and anything related to web tech.
 - 🍇 I’m interested in software development, application development, web development, semiconductor electronics and boxing🥊.
-- 🥝 I’m currently learning ASP.NET, Blazor, Building and Deploying web services, WASM peaks my interest🤔.
-- 🍍 I also work on frontend web dev with React, JavaScript, HTML, CSS etc.
+- 🥝 I’m currently learning ASP.NET Core, Building/Deploying web services, Kubernetes, Electron and WASM peaks my interest🤔.
+- 🍍 I also work on frontend web dev with React, JavaScript, HTML, CSS, Tailwind etc.
 - 🍎 I always love to help out and collaborate on any project where I could be useful. 
 - 🥭 If you need any help or want to colaborate on any of my open projects, feel free to contact me through 👇
-- 🍊 Hit me up on Discord at `acceleratoꭆ#5772`
+- 🍊 Hit me up on Discord at `pratt#5772`
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
