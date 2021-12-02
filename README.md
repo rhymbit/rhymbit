@@ -1,19 +1,20 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Tahoma&color=6D71FF&size=30&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Prateek)](https://git.io/typing-svg)
-- 🍌 I'm an engineer graduate working primarily with web development and anything related to web tech.
-- 🍇 I’m interested in software development, application development, web development, semiconductor electronics and boxing🥊.
-- 🥝 I’m currently learning ASP.NET Core, Building/Deploying web services, Kubernetes, Electron and WASM peaks my interest🤔
-- 🍍 I also work on frontend web dev with React, JavaScript, HTML, CSS, Tailwind etc.
+- 🍌 I'm an engineer working primarily with web development, software development.
+- 🍇 I love to create awesome web applications, useful software, dabble around in semiconductor electronics and also boxing🥊.
+- 🥝 I’m currently learning Identity-Server 4, NextJs, React-Native and also WASM peaks my interest🤔
+- 🍍 I also work on frontend web dev with React, JavaScript, HTML, CSS, Tailwind etc (you know the drill).
 - 🍎 I always love to help out and collaborate on any project where I could be useful. 
 - 🥭 If you need any help or want to colaborate on any of my open projects, feel free to contact me through 👇
 - 🍊 Hit me up on Discord at `pratt#5772`
 
+<br />
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
+  
 ### Frontend  
-<div align="center">  
+<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />
@@ -27,7 +28,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -45,7 +45,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
@@ -56,10 +55,13 @@
 
 </td></tr></table> 
 
+<br />
 
-## My Stats
+<div align="center">
+  <h2>My Stats</h2>
 
 ![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateek332&show_icons=true&theme=radical)
+</div>
 
 
 
