@@ -1,19 +1,20 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Tahoma&color=6D71FF&size=30&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Prateek)](https://git.io/typing-svg)
-- 🍌 I'm an engineer working primarily with web development, software development.
-- 🍇 I love to create awesome web applications, useful software, dabble around in semiconductor electronics and also boxing🥊.
-- 🥝 I’m currently learning Identity-Server 4, NextJs, React-Native and also WASM peaks my interest🤔
-- 🍍 I also work on frontend web dev with React, JavaScript, HTML, CSS, Tailwind etc (you know the drill).
-- 🍎 I always love to help out and collaborate on any project where I could be useful. 
-- 🥭 If you need any help or want to colaborate on any of my open projects, feel free to contact me through 👇
-- 🍊 Hit me up on Discord at `pratt#5772`
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Tahoma&color=6D71FF&size=30&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Prateek)](https://git.io/typing-svg) <br />
+1️⃣ I'm an engineer, working primarily with web development and software development.<br />
+2️⃣ I love to create awesome web applications, useful software, dabble around in semiconductor electronics and also boxing🥊.<br />
+3️⃣ I’m currently learning Identity-Server 4, NextJs, React-Native and Blockchain peaks my interest🤔<br />
+4️⃣ I use tech's like React, ElectronJs, JS, ASP.NET, HTML, Tailwind etc (you know the drill 😒).<br />
+5️⃣ I always love to help out and collaborate on any project where I could be useful. <br />
+6️⃣ If you need any help or want to colaborate on any of my open projects, feel free to contact me through 👇<br />
+7️⃣ Hit me up on Discord at `pratt#5772`<br />
 
-<br />
+<div align="center">
+  <h2>Some(🤏) of my skills</h2>
+</div>
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
   
-### Frontend  
+<b>Frontend</b>
+  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
@@ -30,7 +31,7 @@
 </td><td valign="top" width="33%">
 
 
-### Backend  
+<b>Backend</b>
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
@@ -45,7 +46,7 @@
 </td><td valign="top" width="33%">
 
 
-### DevOps  
+<b>Cloud</b>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />
