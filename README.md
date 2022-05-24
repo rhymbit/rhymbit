@@ -1,4 +1,5 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Tahoma&color=6D71FF&size=30&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Prateek)](https://git.io/typing-svg) <br />
+<h2><u><code>Imp:- I've moved on to GitLab now and do not update this anymore</code></u></h2>
 1️⃣ I'm an engineer, working primarily with web development and software development.<br />
 2️⃣ I love to create awesome web applications, useful software, dabble around in semiconductor electronics and also boxing🥊.<br />
 3️⃣ I’m currently learning Identity-Server 4, NextJs, React-Native and Blockchain peaks my interest🤔<br />
