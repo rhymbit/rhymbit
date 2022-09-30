@@ -1,9 +1,9 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Tahoma&color=6D71FF&size=30&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Prateek)](https://git.io/typing-svg) <br />
-<h2><u><code>Imp:- I've moved on to GitLab now and do not update this anymore</code></u></h2>
-1️⃣ I'm an engineer, working primarily with web development and software development.<br />
-2️⃣ I love creating apps with awesome UI and focus on providing the best user experience.<br />
-3️⃣ I use tech like React, ElectronJs, TS, ASP.NET, NextJs, Tailwind etc (you know the drill 😒).<br />
-4️⃣ I always love to help out and so if you 🫵🏻 need some help, just hit me up on my Discord at `pratt#5772`. <br />
+
+1️⃣ I'm an engineer, working with webapp, desktop & mobile app development<br />
+2️⃣ I love creating apps with an awesome UI and focus on providing the best user experience<br />
+3️⃣ I use tech like React, ElectronJs, Tauri, React Native, ASP.NET, NextJs etc... (you know the drill 😒)<br />
+4️⃣ I always love to help out and so if you 🫵🏻 need some help, just hit me up on my Discord at `pratt#5772`<br />
 
 <div align="center">
   <h2>Some(🤏) of my skills</h2>
